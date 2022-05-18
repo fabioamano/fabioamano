@@ -1,7 +1,6 @@
 
 👋 Hello! Welcome to my Github profile. I'm Fábio Amano.
 
-- 🔭 I’m currently working on Itaú Unibanco.
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning Full Stack Development.
 
